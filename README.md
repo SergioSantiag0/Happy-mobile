@@ -15,7 +15,7 @@
 
 
 <h1> 📷 Projeto</h1>
-<b>Na versão mobile da aplicação Happy, as instituições poderão cadastrar os orfanatos, assim como as visitantes poderão pesquisar o orfanato mais próximo.</b>
+<b>Na versão mobile da aplicação Happy, as instituições poderão cadastrar os orfanatos, assim como os visitantes poderão pesquisar o orfanato mais próximo.</b>
 
 <div align="center" id="id">
 <br>
